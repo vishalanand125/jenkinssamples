@@ -1,0 +1,9 @@
+{
+	"name": "MyDemoAFD",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "02f3fd6e-2f50-48e0-a021-daf208a9d68e",
+		"tenantId": "e0793d39-0939-496d-b129-198edd916feb"
+	}
+}
